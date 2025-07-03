@@ -26,4 +26,4 @@
 
 ### 📫 Contáctame:
 - Discord: .say_ir.
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/edgar-rosas-518aa4372
