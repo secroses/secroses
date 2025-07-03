@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Yair Rosas (aka rosas-sec)
+🛡️ Estudiante autodidacta de **ciberseguridad** y **tecnologías de la información**.  
+💻 Apasionado por aprender hacking ético, análisis de amenazas y herramientas de seguridad ofensiva y defensiva.  
+🚀 Actualmente estudiando para obtener certificaciones como **CompTIA Security+** y **eJPT**.  
+📚 Practicando con **Kali Linux**, **TryHackMe**, **HackTheBox** y plataformas similares.  
 
-<!--
-**secroses/secroses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧰 Tecnologías y herramientas en las que estoy trabajando:
+- `Linux` (Kali, Ubuntu)
+- `Wireshark`, `Nmap`, `Burp Suite`
+- `Git & GitHub`
+- `Python` (básico)
+- `HTML`, `CSS` (básico)
+- `Cybersecurity Labs (TryHackMe)`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 En aprendizaje continuo:
+- Redes, protocolos y modelo OSI
+- Scripts Bash para automatizar tareas
+- Análisis de logs y SIEM
+- Hacking ético y pentesting básico
+
+---
+
+### 📫 Contáctame:
+- Discord: .say_ir.
+- LinkedIn: 
