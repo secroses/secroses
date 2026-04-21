@@ -1,60 +1,71 @@
-# 👋 Hola, soy Edgar Yair Rosas Flores (aka rosas-sec)
+# Edgar Yair Rosas Flores · oblivionroot
 
-🎓 Estudiante de **Tecnologías de la Información** en la Universidad Rosario Castellanos (URC), apasionado por la **ciberseguridad**, la **programación** y el **aprendizaje continuo**.  
-🛡️ Mi objetivo es incorporarme profesionalmente al mundo de la **ciberseguridad**, desarrollando experiencia práctica en **hacking ético, SOC (Security Operations Center)** y seguridad defensiva y ofensiva.  
+**Cybersecurity student · SOC Jr & Help Desk candidate · Mexico City**
 
----
-
-## 🚀 Objetivos a corto plazo
-- Obtener mi primera certificación en **Python (nivel básico)**.  
-- Reforzar mis conocimientos en **ciberseguridad enfocada a redes**.  
-- Mejorar mi manejo de herramientas en **Linux**.  
-- Prepararme para entornos profesionales de **SOC** y **Hacking Ético**.  
-- Avanzar hacia certificaciones como **CompTIA Security+** y **eJPT**.  
+Estudiante de Tecnologías de la Información en la Universidad Nacional Rosario Castellanos, con un año de formación autodidacta en ciberseguridad, cloud y soporte técnico. Participante activo del programa de mentoría **MenCISO**. Construyendo experiencia práctica orientada a roles SOC y Help Desk.
 
 ---
 
-## 🛠 Tecnologías y Herramientas
-- **Sistemas Operativos:** Windows 11, Linux (Kali, Ubuntu).  
-- **Redes y Seguridad:** Nmap, Wireshark, Metasploit, TCP/IP, DNS, DHCP.  
-- **Programación y Scripting:** Python (básico-intermedio), Bash.  
-- **Colaboración y Control de Versiones:** Git & GitHub.  
-- **Ofimática y otros:** Microsoft Office (Excel avanzado), OBS.  
+## 🛡️ Habilidades Técnicas
+
+**Sistemas & CLI**
+Linux (Kali, Ubuntu) · Bash scripting · Permisos y hardening · Análisis de logs
+
+**Cloud & Seguridad**
+Google Cloud Platform · Security Command Center · Identity-Aware Proxy · VPC hardening · Shielded VMs · IAM · PCI DSS compliance
+
+**Análisis & Detección**
+SQL para investigación de incidentes · OWASP Top 10 (web + LLMs) · Incident response lifecycle · Vulnerability assessment
+
+**AI Security (Red Teaming)**
+Prompt Injection (LLM01) · Sensitive Info Disclosure (LLM02) · PropensityBench methodology · MITRE ATLAS
+
+**Programación**
+C++ (estructurado, persistencia de archivos, arquitectura modular) · Python (básico)
+
+**Herramientas**
+Nmap · Wireshark · gcloud CLI · Git & GitHub
 
 ---
 
-## 🧪 Prácticas en Ciberseguridad (TryHackMe)
+## 📂 Portafolios
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/edgaryair0032.png)
-
-He completado laboratorios introductorios en áreas **ofensivas, defensivas y de redes**, fortaleciendo mis bases en ciberseguridad:
-
-- 🛡️ **Defensive Security Intro** – Fundamentos de defensa, monitoreo y detección de amenazas.  
-- ⚔️ **Offensive Security Intro** – Principios básicos del hacking ético y pruebas de penetración.  
-- 🌐 **What is Networking?** – Conceptos de redes y conectividad en entornos de seguridad.  
-- 🔎 **Covers in Cyber** – Ramas principales de la ciberseguridad (ofensiva, defensiva, forense).  
+| Repositorio | Contenido |
+|---|---|
+| [cybersecurity-portfolio](https://github.com/secroses/cybersecurity-portfolio) | Linux, SQL, vulnerability assessments, AI security research |
+| [google-cloud-portfolio](https://github.com/secroses/google-cloud-portfolio) | Cloud incident response, GCP hardening, compliance |
 
 ---
 
-## 📜 Certificaciones y Cursos
-- Cisco Networking Academy – *Introduction to Cybersecurity* (2025).  
-- INFOTEC, Red por la Ciberseguridad & Microsoft – *Curso GitHub Copilot* (2025).  
-- Udemy – *Introducción a la Informática Forense* (2025).  
-- Udemy – *SOC: Introducción a las Operaciones de Seguridad en Empresas* (2025).  
-- Udemy – *Certificación Python PCAP (en preparación)* (2025).  
+## 📜 Certificaciones
+
+| Certificación | Emisor | Fecha |
+|---|---|---|
+| **Google Cloud Cybersecurity Certificate** | Google Cloud | Abr 2026 |
+| Google IT Support Professional Certificate v3 | Coursera / Google | Dic 2025 |
+| Google Cloud Computing Foundations | Google Cloud | Oct 2025 |
+| Build a Secure Google Cloud Network | Google Cloud | Oct 2025 |
+| Implement Load Balancing on Compute Engine | Google Cloud | Oct 2025 |
+| Prepare Data for ML APIs on Google Cloud | Google Cloud | Oct 2025 |
+| Set Up an App Dev Environment on Google Cloud | Google Cloud | Oct 2025 |
+| Intro to Cybersecurity | Cisco | Jul 2025 |
+| Career Management Essentials | IBM SkillsBuild | Mar 2026 |
+| Digital Mindset | IBM SkillsBuild | Mar 2026 |
+| Working in a Digital World | IBM SkillsBuild | Mar 2026 |
+
+**En progreso:** Google Cybersecurity Certificate (Módulo 5/8) · CompTIA Security+
 
 ---
 
-## 🌱 Intereses
-- **Ciberseguridad ofensiva (Hacking Ético)**.  
-- **Centros de Operaciones de Seguridad (SOC)**.  
-- **Análisis de amenazas y ciberinteligencia**.  
-- **Programación aplicada a la seguridad**.  
+## 🎓 Formación Activa
+
+- **Universidad Nacional Rosario Castellanos** — Lic. Tecnologías de la Información (2do semestre)
+- **MenCISO Mentorship Program** — Ransomware simulation, PCI-DSS, AI Red Teaming
+- **INFOTEC** — Google Cloud Engineer (80 hrs)
 
 ---
 
 ## 📫 Contacto
-- 📧 Correo: **Edgaryair0032@gmail.com**  
-- 🐙 GitHub: [secroses](https://github.com/secroses)  
-- 🌐 LinkedIn: [Yair Rosas](https://linkedin.com/in/yairrosas)  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yair%20Rosas-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yair-rosas)
+[![Email](https://img.shields.io/badge/Email-Edgaryair0032%40gmail.com-D14836?style=flat&logo=gmail)](mailto:Edgaryair0032@gmail.com)
