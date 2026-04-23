@@ -1,3 +1,11 @@
+![Banner de Yair Roses - Code, Cloud & Automation](./banner.png)
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yair%20Rosas-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yair-rosas)
+[![Email](https://img.shields.io/badge/Email-Edgaryair0032%40gmail.com-D14836?style=flat&logo=gmail)](mailto:Edgaryair0032@gmail.com)
+
 # Edgar Yair Rosas Flores · Secroses
 
 **Cybersecurity student · SOC Jr & Help Desk candidate · Mexico City**
@@ -64,8 +72,3 @@ Nmap · Wireshark · gcloud CLI · Git & GitHub
 - **INFOTEC** — Google Cloud Engineer (80 hrs)
 
 ---
-
-## 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yair%20Rosas-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yair-rosas)
-[![Email](https://img.shields.io/badge/Email-Edgaryair0032%40gmail.com-D14836?style=flat&logo=gmail)](mailto:Edgaryair0032@gmail.com)
