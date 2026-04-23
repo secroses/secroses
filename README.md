@@ -1,18 +1,25 @@
-![Banner de Yair Roses - Code, Cloud & Automation](./banner.png)
----
+<p align="center">
+  <img src="./banner.png" alt="Banner Yair Roses" width="100%" />
+</p>
 
+<p align="center">
+  <i>"Security is not a product, it's a process."</i>
+</p>
+
+---
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yair%20Rosas-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yair-rosas)
 [![Email](https://img.shields.io/badge/Email-Edgaryair0032%40gmail.com-D14836?style=flat&logo=gmail)](mailto:Edgaryair0032@gmail.com)
 
 <h1 align="center">Edgar Yair Rosas Flores · Secroses</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=secroses&label=Vistas%20del%20perfil&color=00FFA3&style=flat-square" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=secroses&label=Profile%20Views&color=00FFA3&style=flat-square" alt="Visitas" />
 </p>
 
-**Cybersecurity student · SOC Jr & Help Desk candidate · Mexico City**
+<p align="center">
+  <b>Cybersecurity Student | SOC Analyst (Junior) | Cloud Security & Blue Team | Mexico City</b>
+</p>
 
 ```css
 > root :~ whoami 
