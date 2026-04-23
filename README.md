@@ -55,7 +55,7 @@ Nmap · Wireshark · gcloud CLI · Git & GitHub
 
 | Repositorio | Contenido |
 |---|---|
-| [cybersecurity-portfolio](https://github.com/secroses/cybersecurity-portfolio) | Linux, SQL, vulnerability assessments, AI security research |
+| [cybersecurity-portfolio](https://github.com/secroses/cybersecurity-portfolio-) | Linux, SQL, vulnerability assessments, AI security research |
 | [google-cloud-portfolio](https://github.com/secroses/google-cloud-portfolio) | Cloud incident response, GCP hardening, compliance |
 
 ---
