@@ -6,13 +6,28 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yair%20Rosas-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yair-rosas)
 [![Email](https://img.shields.io/badge/Email-Edgaryair0032%40gmail.com-D14836?style=flat&logo=gmail)](mailto:Edgaryair0032@gmail.com)
 
-# Edgar Yair Rosas Flores · Secroses
+<h1 align="center">Edgar Yair Rosas Flores · Secroses</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=secroses&label=Vistas%20del%20perfil&color=00FFA3&style=flat-square" alt="Visitas" />
+</p>
 
 **Cybersecurity student · SOC Jr & Help Desk candidate · Mexico City**
 
-Estudiante de Tecnologías de la Información en la Universidad Nacional Rosario Castellanos, con un año de formación autodidacta en ciberseguridad, cloud y soporte técnico. Participante activo del programa de mentoría **MenCISO**. Construyendo experiencia práctica orientada a roles SOC y Help Desk.
+```css
+> root :~ whoami 
+```
+```python
+> Soy estudiante de Ciberseguridad e Informática 💻
+> Estudio la Lic. en Tecnologías de la Información en la Univ. Nacional Rosario Castellanos 📚 - CDMX, México
+> Tengo un fuerte interés en operaciones de Blue Team, SOC y Cloud Security 🛡️
+> Trabajando en el desarrollo de BloomID, un motor de detección de fraude de identidad 🔭
+> Aprendiendo sobre respuesta a incidentes, GCP hardening y Red Teaming en IA 👨‍💻 
+> Participante activo de la mentoría MenCISO y buscando oportunidades como SOC Jr 🚩
 
----
+> Comprometido con la formación autodidacta y el aprendizaje continuo 💖
+
+```
 
 ## 🛡️ Habilidades Técnicas
 
