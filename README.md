@@ -32,7 +32,7 @@
 
   🎓  Lic. Tecnologías de la Información — UNRC (2do semestre) · CDMX, México
   🛡️   Blue Team | SOC Operations | Cloud Security
-  🔭  Construyendo BloomID — motor de detección de fraude de identidad
+  🔭  Construyendo Blooming Mesh — arquitectura de ciberdefensa soberana Edge AI
   📡  Google Cybersecurity Certificate (Módulo 5/8) · CompTIA Security+ (en progreso)
   🏴  MenCISO: Ransomware Simulation · PCI-DSS · AI Red Teaming
   🤝  Buscando oportunidades como Help Desk Jr. o SOC Analyst Jr.
@@ -91,6 +91,8 @@
 ![MITRE ATLAS](https://img.shields.io/badge/MITRE_ATLAS-B71C1C?style=flat)
 ![PCI DSS](https://img.shields.io/badge/PCI--DSS-003087?style=flat)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-00ACC1?style=flat)
+![eBPF](https://img.shields.io/badge/eBPF-FF6D00?style=flat)
+![PropensityBench](https://img.shields.io/badge/PropensityBench-000000?style=flat)
 
 ---
 
@@ -100,6 +102,7 @@
 |---|---|---|
 | [cybersecurity-portfolio](https://github.com/secroses/cybersecurity-portfolio-) | Linux hardening, SQL forensics, vulnerability assessments, AI security research (LLM Red Teaming) | Linux · SQL · Python · OWASP |
 | [google-cloud-portfolio](https://github.com/secroses/google-cloud-portfolio) | Cloud incident response, GCP hardening, IAM, VPC, PCI-DSS compliance | GCP · IAM · VPC · Security Command Center |
+| [blooming-mesh](https://github.com/secroses/blooming-mesh) | Sovereign Edge Security Architecture — eBPF + Phi-3 + Wazuh para OT/ICS. Defensa cognitiva soberana para infraestructura crítica en México | eBPF · Phi-3 · Suricata · Wazuh · Python |
 
 ---
 
