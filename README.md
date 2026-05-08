@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=650&lines=Edgar+Yair+Rosas+Flores+%7C+Secroses;Cybersecurity+Student+%7C+Blue+Team;SOC+Analyst+Jr.+%7C+Cloud+Security;%22Security+is+not+a+product%2C+it%27s+a+process.%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=650&lines=Edgar+Yair+Rosas+Flores;Google+Certified+Cybersecurity+Professional;SOC+Analyst+%7C+Splunk+%7C+Blue+Team;Building+BloomID%3A+Edge+AI+Fraud+Detection;%22Security+is+not+a+product%2C+it%27s+a+process.%22" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <b>Cybersecurity Student · SOC Analyst Jr. · Cloud Security & Blue Team · Mexico City 🇲🇽</b>
+  <b>Google Certified Cybersecurity Professional · SOC Analyst Jr. · AI Security & Blue Team · Mexico City 🇲🇽</b>
 </p>
 
 <p align="center">
@@ -28,15 +28,15 @@
 
 ```bash
 ┌──(secroses㉿github)-[~/]
-└─$ whoami
+└─$ whoami --status
 
   🎓  Lic. Tecnologías de la Información — UNRC (2do semestre) · CDMX, México
-  🛡️   Blue Team | SOC Operations | Cloud Security
-  🔭  Construyendo Blooming Mesh — arquitectura de ciberdefensa soberana Edge AI
-  📡  Google Cybersecurity Certificate (Módulo 5/8) · CompTIA Security+ (en progreso)
-  🏴  MenCISO: Ransomware Simulation · PCI-DSS · AI Red Teaming
-  🤝  Buscando oportunidades como Help Desk Jr. o SOC Analyst Jr.
-  💡  Aprendizaje autodidacta continuo | Formación práctica orientada a proyectos
+  🛡️   SOC Operations | Blue Team | SIEM & Log Analysis
+  🌸  BloomID MVP: Detección de fraude neuromotor con IA local (Capa L8 Identity)
+  🔭  Blooming Mesh: Arquitectura de ciberdefensa soberana para OT/ICS (Edge Native)
+  ✅  Google Cybersecurity Professional Certificate — Completado (May 2026)
+  🔍  Splunk Search Expert (En curso) — SPL · Dashboards · Correlación de eventos
+  🤝  Buscando roles como SOC Analyst Jr. / Cybersecurity Analyst
 ```
 
 ---
@@ -56,53 +56,50 @@
 
 ## 🛡️ Stack Técnico
 
-**Sistemas & CLI**
+**Análisis & Monitoreo (SIEM / SOC)**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3F88C5?style=flat)
+![SQL](https://img.shields.io/badge/SQL_Forensics-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004088?style=flat)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logo=owasp&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E60026?style=flat)
+![Incident Response](https://img.shields.io/badge/Incident_Response-00ACC1?style=flat)
+![PCI DSS](https://img.shields.io/badge/PCI--DSS-003087?style=flat)
 
-**Cloud & Seguridad**
+**Machine Learning & Datos (Security AI)**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Isolation Forest](https://img.shields.io/badge/Isolation_Forest-FF6D00?style=flat)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![MITRE ATLAS](https://img.shields.io/badge/MITRE_ATLAS-B71C1C?style=flat)
+
+**Cloud & Sistemas**
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-00897B?style=flat&logo=googlecloud&logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC_Hardening-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Security Command Center](https://img.shields.io/badge/Security_Command_Center-FF6D00?style=flat&logo=googlecloud&logoColor=white)
-![Shielded VMs](https://img.shields.io/badge/Shielded_VMs-0F9D58?style=flat&logo=googlecloud&logoColor=white)
-
-**Análisis & Detección**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004088?style=flat&logo=nmap&logoColor=white)
-
-**Programación**
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-**Frameworks & Metodologías**
-
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logo=owasp&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E60026?style=flat)
-![MITRE ATLAS](https://img.shields.io/badge/MITRE_ATLAS-B71C1C?style=flat)
-![PCI DSS](https://img.shields.io/badge/PCI--DSS-003087?style=flat)
-![Incident Response](https://img.shields.io/badge/Incident_Response-00ACC1?style=flat)
 ![eBPF](https://img.shields.io/badge/eBPF-FF6D00?style=flat)
-![PropensityBench](https://img.shields.io/badge/PropensityBench-000000?style=flat)
 
 ---
 
-## 📂 Portafolio
+## 📂 Portafolio Destacado
 
-| Repositorio | Descripción | Tecnologías |
+| Repositorio | Descripción | Status |
 |---|---|---|
-| [cybersecurity-portfolio](https://github.com/secroses/cybersecurity-portfolio-) | Linux hardening, SQL forensics, vulnerability assessments, AI security research (LLM Red Teaming) | Linux · SQL · Python · OWASP |
-| [google-cloud-portfolio](https://github.com/secroses/google-cloud-portfolio) | Cloud incident response, GCP hardening, IAM, VPC, PCI-DSS compliance | GCP · IAM · VPC · Security Command Center |
-| [blooming-mesh](https://github.com/secroses/blooming-mesh) | Sovereign Edge Security Architecture — eBPF + Phi-3 + Wazuh para OT/ICS. Defensa cognitiva soberana para infraestructura crítica en México | eBPF · Phi-3 · Suricata · Wazuh · Python |
+| [🌸 BloomID](https://github.com/secroses/blooming-mesh/tree/main/bloom-id) | Motor de detección de fraude de identidad mediante biometría conductual. Detecta bots (Selenium/Puppeteer) usando varianza estadística e Isolation Forest. | MVP Funcional ✅ |
+| [🕸️ Blooming Mesh](https://github.com/secroses/blooming-mesh) | Arquitectura de ciberdefensa descentralizada para OT/ICS. Nodo soberano con eBPF, Suricata y Phi-3 para respuesta en el Edge. | Visión Estratégica 🔭 |
+| [🛡️ Cybersecurity Portfolio](https://github.com/secroses/cybersecurity-portfolio-) | Auditorías de red, SQL forensics, hardening de Linux, vulnerability assessments y AI Red Teaming (LLM/OWASP). | Activo 📁 |
+| [☁️ Google Cloud Portfolio](https://github.com/secroses/google-cloud-portfolio) | Cloud incident response, GCP hardening, IAM, VPC y cumplimiento PCI-DSS. | Activo 📁 |
 
 ---
 
@@ -110,8 +107,10 @@
 
 | Certificación | Emisor | Fecha |
 |---|---|---|
-| 🟢 **Google Cloud Cybersecurity Certificate** | Google Cloud | Abr 2026 |
-| ✅ Google IT Support Professional Certificate v3 | Coursera / Google | Dic 2025 |
+| 🏅 **Google Cybersecurity Professional Certificate** | Google | May 2026 |
+| 🔍 **Splunk Search Expert 101/102** | Splunk / Coursera | En curso |
+| 🟢 Google Cloud Cybersecurity Certificate | Google Cloud | Abr 2026 |
+| ✅ Google IT Support Professional Certificate v3 | Google | Dic 2025 |
 | ✅ Google Cloud Computing Foundations | Google Cloud | Oct 2025 |
 | ✅ Build a Secure Google Cloud Network | Google Cloud | Oct 2025 |
 | ✅ Implement Load Balancing on Compute Engine | Google Cloud | Oct 2025 |
@@ -122,15 +121,13 @@
 | ✅ Digital Mindset | IBM SkillsBuild | Mar 2026 |
 | ✅ Working in a Digital World | IBM SkillsBuild | Mar 2026 |
 
-> 🔄 **En progreso:** Google Cybersecurity Certificate (Módulo 5/8) · CompTIA Security+
-
 ---
 
-## 🎓 Formación Activa
+## 🎓 Formación y Mentorías
 
 - 🏛️ **Universidad Nacional Rosario Castellanos** — Lic. Tecnologías de la Información (2do semestre)
-- 🛡️ **MenCISO Mentorship Program** — Ransomware Attack Simulation · PCI-DSS · AI Red Teaming
-- ☁️ **INFOTEC** — Google Cloud Engineer (80 hrs, en curso)
+- 🛡️ **MenCISO Mentorship Program** — Simulación de Ransomware · Cumplimiento PCI-DSS · AI Red Teaming
+- ☁️ **INFOTEC** — Google Cloud Engineer (En curso)
 
 ---
 
