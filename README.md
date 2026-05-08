@@ -42,14 +42,13 @@
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=secroses&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=FFFFFF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secroses&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF" height="165"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=secroses&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=FFFFFF&rank_icon=percentile&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=secroses&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=secroses&theme=dark&hide_border=true&background=0D1117&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=secroses&theme=dark&hide_border=true&background=0D1117&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&sideLabels=00FFA3" />
 </p>
 
 ---
