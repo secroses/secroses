@@ -95,7 +95,7 @@
 
 | Repositorio | Descripción | Status |
 |---|---|---|
-| [🌸 BloomID](https://github.com/secroses/blooming-mesh/tree/main/bloom-id) | Motor de detección de fraude de identidad mediante biometría conductual. Detecta bots (Selenium/Puppeteer) usando varianza estadística e Isolation Forest. | MVP Funcional ✅ |
+| [🌸 BloomID-v6](https://github.com/secroses/blooming-mesh/tree/main/bloom-id) | Motor de detección de fraude de identidad mediante biometría conductual. Detecta bots (Selenium/Puppeteer) usando varianza estadística e Isolation Forest. | MVP Funcional ✅ |
 | [🕸️ Blooming Mesh](https://github.com/secroses/blooming-mesh) | Arquitectura de ciberdefensa descentralizada para OT/ICS. Nodo soberano con eBPF, Suricata y Phi-3 para respuesta en el Edge. | Visión Estratégica 🔭 |
 | [🛡️ Cybersecurity Portfolio](https://github.com/secroses/cybersecurity-portfolio-) | Auditorías de red, SQL forensics, hardening de Linux, vulnerability assessments y AI Red Teaming (LLM/OWASP). | Activo 📁 |
 | [☁️ Google Cloud Portfolio](https://github.com/secroses/google-cloud-portfolio) | Cloud incident response, GCP hardening, IAM, VPC y cumplimiento PCI-DSS. | Activo 📁 |
