@@ -33,9 +33,8 @@
   🎓  Lic. Tecnologías de la Información — UNRC (2do semestre) · CDMX, México
   🛡️   SOC Operations | Blue Team | SIEM & Log Analysis
   🌸  BloomID MVP: Detección de fraude neuromotor con IA local (Capa L8 Identity)
-  🔭  Blooming Mesh: Arquitectura de ciberdefensa soberana para OT/ICS (Edge Native)
   ✅  Google Cybersecurity Professional Certificate — Completado (May 2026)
-  🔍  Splunk Search Expert (En curso) — SPL · Dashboards · Correlación de eventos
+  🔍  Splunk Search Expert — SPL · Dashboards · Correlación de eventos
   🤝  Buscando roles como SOC Analyst Jr. / Cybersecurity Analyst
 ```
 
