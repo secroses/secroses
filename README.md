@@ -94,7 +94,7 @@
 | Repositorio | Descripción | Status |
 |---|---|---|
 | [🌸 BloomID-v6](https://github.com/secroses/BloomID-v6) | Motor de detección de fraude de identidad mediante biometría conductual. Detecta bots (Selenium/Puppeteer) usando varianza estadística e Isolation Forest. | MVP Funcional ✅ |
-| [🛡️ Cybersecurity Portfolio](https://github.com/secroses/Cybersecurity-Portfolio-) | Auditorías de red, SQL forensics, hardening de Linux, vulnerability assessments y AI Red Teaming (LLM/OWASP). | Activo 📁 |
+| [🛡️ Cybersecurity Portfolio](https://github.com/secroses/Cybersecurity-Portfolio) | Auditorías de red, SQL forensics, hardening de Linux, vulnerability assessments y AI Red Teaming (LLM/OWASP). | Activo 📁 |
 | [☁️ Google Cloud Portfolio](https://github.com/secroses/google-cloud-portfolio) | Cloud incident response, GCP hardening, IAM, VPC y cumplimiento PCI-DSS. | Activo 📁 |
 
 ---
