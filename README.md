@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=650&lines=Edgar+Yair+Rosas+Flores;Google+Certified+Cybersecurity+Professional;SOC+Analyst+%7C+Splunk+%7C+Blue+Team;Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=650&lines=Yair+Rosas;Google+Certified+Cybersecurity+Professional;SOC+Analyst+%7C+Splunk+%7C+Blue+Team;Building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,9 +30,8 @@
 ┌──(secroses㉿github)-[~/]
 └─$ whoami --status
 
-  🎓  Lic. Tecnologías de la Información — UNRC (2do semestre) · CDMX, México
+  🎓  Lic. Tecnologías de la Información — UNRC · CDMX, México
   🛡️   SOC Operations | Blue Team | SIEM & Log Analysis
-  🌸  BloomID MVP: Detección de fraude neuromotor con IA local (Capa L8 Identity)
   ✅  Google Cybersecurity Professional Certificate — Completado (May 2026)
   🔍  Splunk Search Expert — SPL · Dashboards · Correlación de eventos
   🤝  Buscando roles como SOC Analyst Jr. / Cybersecurity Analyst
