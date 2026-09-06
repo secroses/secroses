@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=650&lines=Edgar+Yair+Rosas+Flores;Google+Certified+Cybersecurity+Professional;SOC+Analyst+%7C+Splunk+%7C+Blue+Team;Building+BloomID%3A+Edge+AI+Fraud+Detection;%22Security+is+not+a+product%2C+it%27s+a+process.%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=650&lines=Edgar+Yair+Rosas+Flores;Google+Certified+Cybersecurity+Professional;SOC+Analyst+%7C+Splunk+%7C+Blue+Team;Building" alt="Typing SVG" />
   </a>
 </p>
 
