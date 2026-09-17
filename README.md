@@ -33,7 +33,7 @@
   🎓  Lic. Tecnologías de la Información — UNRC · CDMX, México (3er semestre)
   🛡️   SOC Operations | Blue Team | SIEM & Log Analysis
   ✅  Google Cybersecurity Professional Certificate — Completado (May 2026)
-  🔍  Splunk Search Expert — Completado (Score 397) · SPL · Correlación de eventos
+  🔍  Splunk Search Expert — Completado  · SPL · Correlación de eventos
   🤝  Buscando roles como SOC Analyst Jr. / Cybersecurity Analyst
 ```
 
