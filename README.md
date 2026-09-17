@@ -30,23 +30,23 @@
 ┌──(secroses㉿github)-[~/]
 └─$ whoami --status
 
-  🎓  Lic. Tecnologías de la Información — UNRC · CDMX, México
+  🎓  Lic. Tecnologías de la Información — UNRC · CDMX, México (3er semestre)
   🛡️   SOC Operations | Blue Team | SIEM & Log Analysis
   ✅  Google Cybersecurity Professional Certificate — Completado (May 2026)
-  🔍  Splunk Search Expert — SPL · Dashboards · Correlación de eventos
+  🔍  Splunk Search Expert — Completado (Score 397) · SPL · Correlación de eventos
   🤝  Buscando roles como SOC Analyst Jr. / Cybersecurity Analyst
 ```
 
 ---
 
 ## 📊 GitHub Stats
- 
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=secroses&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=FFFFFF&rank_icon=percentile&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=secroses&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=secroses&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=FFFFFF&rank_icon=percentile&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secroses&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=secroses&theme=dark&hide_border=true&background=0D1117&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&sideLabels=00FFA3" />
+  <img src="https://streak-stats.demolab.com?user=secroses&theme=dark&hide_border=true&background=0D1117&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&sideLabels=00FFA3" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Isolation Forest](https://img.shields.io/badge/Isolation_Forest-FF6D00?style=flat)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama_%2F_Phi--3_Mini-000000?style=flat&logo=ollama&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![MITRE ATLAS](https://img.shields.io/badge/MITRE_ATLAS-B71C1C?style=flat)
 
@@ -92,8 +92,9 @@
 
 | Repositorio | Descripción | Status |
 |---|---|---|
-| [🌸 BloomID-v6](https://github.com/secroses/BloomID-v6) | Motor de detección de fraude de identidad mediante biometría conductual. Detecta bots (Selenium/Puppeteer) usando varianza estadística e Isolation Forest. | MVP Funcional ✅ |
-| [🛡️ Cybersecurity Portfolio](https://github.com/secroses/Cybersecurity-Portfolio) | Auditorías de red, SQL forensics, hardening de Linux, vulnerability assessments y AI Red Teaming (LLM/OWASP). | Activo 📁 |
+| [🛡️ SOC Detection Lab](https://github.com/secroses/soc-detection-lab) | Home lab de SOC en recursos limitados (Wazuh SIEM, Sysmon Modular, reglas de correlación MITRE ATT&CK custom, SOAR con Active Response). | Activo 🔬 |
+| [🌸 BloomID-v6](https://github.com/secroses/BloomID-v6) | Motor de detección de fraude de identidad mediante biometría conductual (Isolation Forest) con un módulo de API Shield para proteger el pipeline de inferencia. | MVP Funcional ✅ |
+| [🔎 Cybersecurity Portfolio](https://github.com/secroses/Cybersecurity-Portfolio) | Auditorías de red, SQL forensics, hardening de Linux, vulnerability assessments y AI Red Teaming (LLM/OWASP). | Activo 📁 |
 | [☁️ Google Cloud Portfolio](https://github.com/secroses/google-cloud-portfolio) | Cloud incident response, GCP hardening, IAM, VPC y cumplimiento PCI-DSS. | Activo 📁 |
 
 ---
@@ -103,7 +104,7 @@
 | Certificación | Emisor | Fecha |
 |---|---|---|
 | 🏅 **Google Cybersecurity Professional Certificate** | Google | May 2026 |
-| 🔍 **Splunk Search Expert 101/102** | Splunk / Coursera | En curso |
+| 🔍 **Splunk Search Expert** (Score 397) | Splunk / Coursera | Completado |
 | 🟢 Google Cloud Cybersecurity Certificate | Google Cloud | Abr 2026 |
 | ✅ Google IT Support Professional Certificate v3 | Google | Dic 2025 |
 | ✅ Google Cloud Computing Foundations | Google Cloud | Oct 2025 |
@@ -120,8 +121,8 @@
 
 ## 🎓 Formación y Mentorías
 
-- 🏛️ **Universidad Nacional Rosario Castellanos** — Lic. Tecnologías de la Información (2do semestre)
-- 🛡️ **MenCISO Mentorship Program** — Simulación de Ransomware · Cumplimiento PCI-DSS · AI Red Teaming
+- 🏛️ **Universidad Nacional Rosario Castellanos** — Lic. Tecnologías de la Información (3er semestre)
+- 🛡️ **MenCISO Gen 1 · The Devil's Hacker Academy** — Simulación de Ransomware · Cumplimiento PCI-DSS · AI Red Teaming
 - ☁️ **INFOTEC** — Google Cloud Engineer (En curso)
 
 ---
