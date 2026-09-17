@@ -104,7 +104,7 @@
 | Certificación | Emisor | Fecha |
 |---|---|---|
 | 🏅 **Google Cybersecurity Professional Certificate** | Google | May 2026 |
-| 🔍 **Splunk Search Expert** (Score 397) | Splunk / Coursera | Completado |
+| 🔍 **Splunk Search Expert**  | Splunk / Coursera | Completado |
 | 🟢 Google Cloud Cybersecurity Certificate | Google Cloud | Abr 2026 |
 | ✅ Google IT Support Professional Certificate v3 | Google | Dic 2025 |
 | ✅ Google Cloud Computing Foundations | Google Cloud | Oct 2025 |
